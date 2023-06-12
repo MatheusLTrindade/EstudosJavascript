@@ -1,11 +1,11 @@
 {
-  "name": "babel",
+  "name": "usando-babel",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "babel" : "babel src --out-dir dist --presets=@babel/preset-env"
+    "babel" : "babel src --out-dir dist"
   },
   "keywords": [],
   "author": "Matheus",
