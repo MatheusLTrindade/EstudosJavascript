@@ -1,0 +1,28 @@
+{
+  "articles": [
+    {
+      "title": "Olá, mundo!",
+      "author": "Matheus",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "id": 1
+    },
+    {
+      "title": "Requisições POST com Javascript",
+      "author": "Matheus",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "id": 2
+    },
+    {
+      "title": "Aprendendo Javascript",
+      "author": "Matheus",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "id": 3
+    },
+    {
+      "title": "Meu quarto artigo",
+      "author": "Matheus",
+      "content": "Este é o meu quarto artigo! :)",
+      "id": 4
+    }
+  ]
+}
